@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\Prova2\Prova2\bin\Debug\Prova2.exe.config
+C:\Users\Aluno\Desktop\Prova2\Prova2\bin\Debug\Prova2.exe
+C:\Users\Aluno\Desktop\Prova2\Prova2\bin\Debug\Prova2.pdb
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.Hospital.resources
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.exe
+C:\Users\Aluno\Desktop\Prova2\Prova2\obj\Debug\Prova2.pdb
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\bin\Debug\Prova2.exe.config
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\bin\Debug\Prova2.exe
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\bin\Debug\Prova2.pdb
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.csprojAssemblyReference.cache
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.Hospital.resources
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.exe
+D:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.pdb
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\bin\Debug\Prova2.exe.config
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\bin\Debug\Prova2.exe
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\bin\Debug\Prova2.pdb
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.csprojAssemblyReference.cache
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.Hospital.resources
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.csproj.GenerateResource.cache
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.exe
+J:\Técnicas de programação (Tuji)\Prova2\Prova2\obj\Debug\Prova2.pdb

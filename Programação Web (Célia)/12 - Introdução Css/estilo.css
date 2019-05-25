@@ -1,0 +1,19 @@
+﻿body { 
+     background-color: DarkKhaki;
+     margin: 20px
+     }
+
+h1   {
+     font-style: italic;
+     font-variant: small-caps;
+     font-weight: bold;
+     font-size: 50pt;
+     font-family: verdana;
+     text-align: center;
+     text-transform: uppercase;
+     color: olive;
+     background-color: Silver;
+     padding: 10px;
+     border-color: pink;
+     border-style: dotted
+     }

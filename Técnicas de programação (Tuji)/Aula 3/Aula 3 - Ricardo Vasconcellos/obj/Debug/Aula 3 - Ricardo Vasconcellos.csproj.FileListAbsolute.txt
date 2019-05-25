@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula_3___Ricardo_Vasconcellos.Form1.resources
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula_3___Ricardo_Vasconcellos.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.exe.config
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.exe
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.pdb
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.exe
+C:\Users\Aluno\Desktop\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.pdb
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.exe.config
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.exe
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.pdb
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csprojAssemblyReference.cache
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula_3___Ricardo_Vasconcellos.Form1.resources
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula_3___Ricardo_Vasconcellos.Properties.Resources.resources
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csproj.GenerateResource.cache
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.exe
+D:\WindowsFormsApp2\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.pdb
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.exe.config
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.exe
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\bin\Debug\Aula 3 - Ricardo Vasconcellos.pdb
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csprojAssemblyReference.cache
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula_3___Ricardo_Vasconcellos.Form1.resources
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula_3___Ricardo_Vasconcellos.Properties.Resources.resources
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csproj.GenerateResource.cache
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.csproj.CoreCompileInputs.cache
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.exe
+D:\Técnicas de programação (Tuji)\Aula 3\Aula 3 - Ricardo Vasconcellos\obj\Debug\Aula 3 - Ricardo Vasconcellos.pdb

@@ -1,0 +1,109 @@
+﻿
+<title> Tableless </title>
+<style>
+body { 
+     background-color: white;
+     margin: 200px;
+     }
+h1     {
+       color:Orange;
+       text-align:center;
+       width:200px;
+       border:3px solid fuchsia;
+       border-style: groove;
+       border-width: 10px;
+       background-color:purple;
+       font-size:super-large;
+       font-family:Verdana
+       }
+h2     {
+       color:fuchsia;
+       text-align:center;
+       width:200px;
+       border:3px solid fuchsia;
+       border-style: groove;
+       borde-width: 10px;
+       background-color:lime;
+       font-size:large;
+       font-family:Verdana
+       }
+h3     {
+       color:#8B0000;
+       text-align:center;
+       width:700px;
+       background-color:silver;
+       top: 250px;
+       float: none;
+       position: absolute;
+       left: 25%;
+       font-size:big;
+       font-size: Verdana
+       }
+h4     {
+       color:#0000CD;
+       text-align:justify;
+       margin-left:30px;
+       width:280px;
+       height: auto;
+       float: none;
+       position: absolute;
+       top: 300px;
+       left: 37%;
+       font-size:normal;
+       font-family: Arial;
+       background-color:silver
+       }
+h5     {
+       color:orange;
+       border-color: fuchsia;
+       background-color: purple;
+       background-image: none;
+       background-repeat: no-repeat;
+       background-position: bottom;
+       background-attachment: fixed; 
+       font-family: Verdana;
+       font-size: 12pt;
+       font-style: normal;
+       font-variant: normal;
+       font-weight: bold;
+       text-align: justify;
+       text-decoration: none;
+       text-transform: none;
+       text-indent: 2em;
+       line-height: normal;
+       letter-spacing: normal;
+       white-space: normal;
+       direction: ltr;
+       border-style: groove;
+       border-width: 10px;
+       padding: 2em;
+       visibility: visible;
+       display: block;
+       cursor: auto;
+       width: 24%;
+       height: auto;
+       margin: 1em;
+       overflow: auto;
+       float: none;
+       position: absolute;
+       top: 350px;
+       left: 33%
+       }
+p      {
+       color:black;
+       text-align: justify;
+       margin-left:30px;
+       width:700px;
+       height: auto;
+       border:3px solid fuchsia;
+       border-style: groove;
+       border-width: 10px;
+       background-color:silver;
+       float: none;
+       position: absolute;
+       top: 0px;
+       left: 22%;
+       font-size:normal;
+       font-family: ARIAL}
+</style>
+

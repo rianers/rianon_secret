@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Pizzaria </title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+</head>
+
+<body bgcolor="#008B8B">
+                <p align="center">
+                <font color="gold" size="5" face="arial"> Pizzaria Limelight - Faça seu pedido </font>
+<fieldset>
+<table>
+<tr>
+             <font color="#000080" size="3" face="arial"> Nome: <input type="Text" name="Nome" size="90"> </font>
+             <font color="#000080" size="3" face="arial"> CPF: <input type="Text" name="CPF" size="20"> </font>
+             <font color="#000080" size="3" face="arial"> Sexo: <input type="Radio" name="Sexo"> Feminino
+             <input type="Radio" name="Sexo"> Masculino 
+</font>
+<br> <br>
+             <font color="#000080" size="3" face="arial"> Telefone Residencial: DDD ( <input type="Text" name="TelRes" size="2"> ) </font> <input type="Text" name="TelRes" size="10">
+&nbsp&nbsp&nbsp
+
+              <font color="#000080" size="3" face="arial"> Telefone Celular: DDD ( <input type="Text" name="Celular" size="2"> ) </font> <input type="Text" name="Celular" size="10">
+&nbsp&nbsp&nbsp
+
+              <font color="#000080" size="3" face="arial"> Telefone Comercial: DDD ( <input type="Text" name="TelCom" size="2"> ) </font> <input type="Text" name="TelCom" size="10">
+<br> <br>
+
+ <font color="#000080" size="3" face="arial"> Endereço: <input type="Text" name="Endereço" size="160">
+<br> <br> <br>
+
+ <p align="center">
+ <font color="black" size="3" face="arial"> <b> Pizzas - Escolha seus sabores </b> </font>
+
+<table bgcolor="#C0C0C0" border="2" width="100%">
+<tr>
+<td><center> <b> Sabor </b> </center></td>
+<td><center> <b> Tamanho </b> </center></td>
+<td><center> <b> Borda </b> </center></td>
+<td><center> <b> Quantidade </b></center></td>
+</tr>
+
+<tr>
+<td><input type="checkbox" value="Catupiry"> Catupiry </td> 
+<td><input type="radio" name="Pequena">Pequena 
+<input type="radio" name="Media">Media 
+<input type="radio" name="Grande">Grande </td>
+
+<td><select name="Borda" size="1">
+    <option selected> </option>
+    <option>Fina      </option>
+    <option>Grossa    </option>
+    <option>Recheada  </option> </td>
+
+<td> <select name="Quant" size="1">
+    <option selected> </option>
+    <option>Uma       </option>
+    <option>Duas      </option>
+    <option>Três      </option>
+    <option>Quatro    </option>
+    <option>Cinco     </option> </td>
+</tr>
+
+<tr>
+<td><input type="checkbox" value="Atum"> Atum </td> 
+<td><input type="radio" name="Pequena">Pequena 
+<input type="radio" name="Media">Media 
+<input type="radio" name="Grande">Grande </td>
+
+<td><select name="Borda" size="1">
+    <option selected>              </option>
+    <option>Fina                   </option>
+    <option>Grossa                 </option>
+    <option>Recheada               </option> </td>
+
+<td><select name="Quant" size="1">
+    <option selected>              </option>
+    <option>Uma                    </option>
+    <option>Duas                   </option>
+    <option>Tres                   </option>
+    <option>Quatro                 </option>
+    <option>Cinco                  </option> </td>
+</tr>
+
+<tr>
+<td><input type="checkbox" value="Marguerita"> Marguerita </td> 
+<td><input type="radio" name="Pequena">Pequena 
+<input type="radio" name="Media">Media 
+<input type="radio" name="Grande">Grande </td>
+
+<td><select name="Borda" size="1">
+    <option selected>              </option>
+    <option>Fina                   </option>
+    <option>Grossa                 </option>
+    <option>Recheada               </option> </td>
+
+<td><select name="Quant" size="1">
+    <option selected>              </option>
+    <option>Uma                    </option>
+    <option>Duas                   </option>
+    <option>Tres                   </option>
+    <option>Quatro                 </option>
+    <option>Cinco                  </option> </td>
+</tr>
+</table>
+<br> <br>
+
+<p align="center">
+ <font color="black" size="3" face="arial"> <b> Pagamento (Cartão de Crédito): </b> </font> 
+
+<table bgcolor="#C0C0C0" border="2" width="100%">
+
+<tr height="10">
+<td> <font color="black" size="3" face="arial"> <b> Número: </b> </font> </td> 
+<td> <input type="text" maxlength="16" size="10"> </td>
+<td rowspan="4" width="10%" align=right> <img src="https://png.pngtree.com/element_pic/16/11/03/cd52d8393a2f9f211e1056c2d6163a3c.jpg"> </td>
+</tr>
+
+<tr height="10">
+<td> <font color="black" size="3" face="arial"> <b> Código de Segurança: </b> </font> </td>
+<td> <input type="text" maxlength="3" size="6"> </td>
+</tr> 
+
+<tr height="10">
+<td> <font color="black" size="3" face="arial"> <b> Bandeira: </b> </font> </td>
+<td> <font color="black" size="3" face="arial"> <input type="radio" name="Visa">Visa </font> <br>
+     <font color="black" size="3" face="arial"> <input type="radio" name="Mastercard">Mastercard </font> <br>
+     <font color="black" size="3" face="arial"> <input type="radio" name="American">American </font> </td>
+</tr>  
+
+<tr height="10">
+<td> <font color="black" size="3" face="arial"> <b> Validade: </b> </font> </td>
+<td> <input type="date" name="b" size="30"> </td>
+</tr> 
+</table>
+<br> <br>
+<p align="center">
+                <input type="submit" name="l" value="Enviar Pedido">
+                <input type="reset" name="m" value="Limpar Pedido"> 
+</body>
+</html>

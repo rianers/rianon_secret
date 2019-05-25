@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\bin\Debug\Controles15 05.exe.config
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\bin\Debug\Controles15 05.exe
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\bin\Debug\Controles15 05.pdb
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15 05.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15_05.Form1.resources
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15_05.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15 05.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15 05.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15 05.exe
+C:\Users\Aluno\Desktop\Controles15 05\Controles15 05\obj\Debug\Controles15 05.pdb
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\bin\Debug\Controles15 05.exe.config
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\bin\Debug\Controles15 05.exe
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\bin\Debug\Controles15 05.pdb
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15 05.csprojAssemblyReference.cache
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15_05.Form1.resources
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15_05.Properties.Resources.resources
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15 05.csproj.GenerateResource.cache
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15 05.csproj.CoreCompileInputs.cache
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15 05.exe
+D:\Técnicas de programação (Tuji)\Aula 7\Controles15 05\obj\Debug\Controles15 05.pdb

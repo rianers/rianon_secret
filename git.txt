@@ -1,0 +1,23 @@
+echo "# Rianon_public" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/r14n3/Rianon_public.git
+git push -u origin master
+
+
+git remote add origin https://github.com/r14n3/Rianon_public.git
+git push -u origin master
+
+------------------------------------------------------------------
+
+echo "# rianon_secret" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/r14n3/rianon_secret.git
+git push -u origin master
+
+
+git remote add origin https://github.com/r14n3/rianon_secret.git
+git push -u origin master
